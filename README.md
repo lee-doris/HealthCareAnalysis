@@ -38,7 +38,6 @@ To rigorously verify whether patient demographic characteristics significantly i
 ## 📊 Visualizations
 
 ### Average Claim Amount by Specialty Ranking
-![Average Claim Amount by Specialty](specialty_claim_amount.png)
 
 ---
 
